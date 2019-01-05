@@ -1,4 +1,5 @@
 ﻿using System;
+//Брижак Андрей Домашнее задание по курсу C# уровень 2 урок 3
 
 namespace CS_Adv_Les03_Delegates_Observer
 {
